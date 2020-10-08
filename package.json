@@ -1,0 +1,14 @@
+{
+  "name": "glsl-utils",
+  "version": "1.0.0",
+  "description": "glsl utility functions",
+  "author": {
+    "name": "masatoshi endo"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akakuro43/glsl-utils.git"
+  },
+  "private": "true"
+}
